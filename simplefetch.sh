@@ -5,7 +5,7 @@ echo
 echo User: $USER
 echo Hostname: $HOSTNAME
 echo Uptime: "$(uptime -p)"
-echo 'Date (Local):' "$(date)"
-echo 'Date (UTF):' "$(date -u)"
+echo 'Time (Local):' "$(date)"
+echo 'Time (UTF):' "$(date -u)"
 
 
