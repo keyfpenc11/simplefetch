@@ -8,4 +8,7 @@ v0.2:
 *Added Local Time
 *Added UTF time
 
+v0.3:
+*Added kernel version
+
 
